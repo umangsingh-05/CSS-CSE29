@@ -7,4 +7,6 @@
     width: 400px;
     background-color: yellow;
     margin: 100px;
+    align-content: center;
+    text-align: center;
 }
