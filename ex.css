@@ -1,0 +1,10 @@
+#e1{
+    border: 5px solid black;
+}
+#e2{
+    border: 70px solid blue;
+    height: 200px;
+    width: 400px;
+    background-color: yellow;
+    margin: 100px;
+}
