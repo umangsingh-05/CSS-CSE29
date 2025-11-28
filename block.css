@@ -1,0 +1,18 @@
+.box{
+    display: inline-block;
+    height: 300px;
+    width: 250px;
+    margin: 10px;
+}
+.box1{
+    text-align: center;
+    background-color:darkgoldenrod;
+}
+.box2{
+    text-align: center;
+    background-color:brown;
+}
+.box3{
+    text-align: center;
+    background-color:cadetblue;
+}
