@@ -1,0 +1,10 @@
+.container {
+    width: 5000px;
+    height: 600px;
+    background-color:fuchsia;
+}
+img{
+    height: 200px;
+    width: 150px;
+    float: inline-start;
+}
